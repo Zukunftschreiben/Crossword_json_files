@@ -1,0 +1,23 @@
+{
+  "author": "Zukunftschreiben",
+  "title": "ClimaCrossword",
+  "clues": {
+    "across": [
+      "Hop on it", "Decorative vases", "Declarative frontend framework", "Travel destination"
+    ],
+    "down": ["It may be prickly", "Pee compound", "Major bug", "Search around", "Three-pronged"]
+  },
+  "answers": {
+    "across": [
+      "BUS", "URNS", "REACT", "AFAR"
+    ], 
+    "down": ["BUR", "UREA", "SNAFU", "SCAN", "TRI"]
+  },
+  "date": "7/28/17",
+  "grid": ["B", "U", "S", ".", ".", "U", "R", "N", "S", ".", "R", "E", "A", "C", "T", ".", "A", "F", "A", "R", ".", ".", "U", "N", "I"],
+  "size": {
+    "rows": 5,
+    "cols": 5
+  },
+  "notes": ""
+}

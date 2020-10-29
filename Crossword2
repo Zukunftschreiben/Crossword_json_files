@@ -1,0 +1,59 @@
+{
+   "author":"Zukunftschreiben",
+   "title":"ClimaCrossword2",
+   "clues":{
+      "across":[
+         "Verursacht durch die globale Erwärmung",
+         "Kurzfristige Klimabedingungen",
+         "Wenn eine Art ausstirbt"
+      ],
+      "down":[
+         "Unser Planet",
+         "Von der Sonne"
+      ]
+   },
+   "answers":{
+      "across":[
+         "KLIMAWANDEL",
+         "WETTER",
+         "AUSSTERDEN"
+      ],
+      "down":[
+         "ERDE",
+         "SOLAR"
+      ]
+   },
+   "date":"7/28/17",
+   "grid":[
+      "B",
+      "U",
+      "S",
+      ".",
+      ".",
+      "U",
+      "R",
+      "N",
+      "S",
+      ".",
+      "R",
+      "E",
+      "A",
+      "C",
+      "T",
+      ".",
+      "A",
+      "F",
+      "A",
+      "R",
+      ".",
+      ".",
+      "U",
+      "N",
+      "I"
+   ],
+   "size":{
+      "rows":5,
+      "cols":5
+   },
+   "notes":""
+}

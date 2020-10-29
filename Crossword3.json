@@ -1,0 +1,22 @@
+{
+  "author": "Zukunftschreiben",
+  "title": "ClimaCrossword 3",
+  "clues": {
+    "across": [
+      "Was bedeckt 75 % der Erdoberfläche?", "Was spaltet Plankton, Kohlenstoff und Mineralsalze in Sauerstoff und organische Stoffe?", "Wer nimmt ein Viertel des weltweiten CO2-Ausstosses auf?", "Sind in meeresfernen Gebieten die Sommer heißer oder kälter?"
+    ],
+    "down": ["Was kann Wasser an Land ausgleichen?", "Sind in meeresfernen Gebieten die Winter kälter oder wärmer?", "Wo kann der gespeicherte Kohlenstoff über Jahrhunderte gelagert werden?"]
+  },
+  "answers": {
+    "across": [
+      "WELTMEERE", "SONNENEINSTRAHLUNG", "KLEINSTLEBEWESEN", "HEISSER"
+    ], 
+    "down": ["TEMPERATURUNTERSCHIEDE", "KAELTER", "MEERESBODEN"]
+  },
+  "date": "10/29/20",
+  "size": {
+    "rows": 25,
+    "cols": 24
+  },
+  "notes": ""
+}
